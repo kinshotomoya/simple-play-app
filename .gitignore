@@ -1,0 +1,12 @@
+.g8
+.gradle
+.idea/
+target
+
+# gradle関連
+gradle
+gradlew*
+*.gradle
+
+# log関連
+logs/
